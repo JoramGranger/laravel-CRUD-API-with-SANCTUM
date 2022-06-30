@@ -1,0 +1,7 @@
+1. setup
+2. endpoint
+3. model | php artisan make:model Product --migration
+4. migrations | php artisan migrate
+5. routes
+6. controller | php artisan make:controller ProductController --api
+7. routes | php artisan route:list
