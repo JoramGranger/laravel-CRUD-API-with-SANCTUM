@@ -7,14 +7,13 @@ This is another API created with laravel 8 offering CRUD functionalities but wit
 - creating products
 - updating products
 - deleting products
-- registering users
-- logging in users
+- logging out users
 
 # Un-Authenticated operations
 - viewing/reading products
 - searhing products
-- deleting products
-- logging out users
+- registering users
+- logging in users
 
 Access tokens are generated and used to access the protected routes (Un-Authenticated), otherwise blocked by sanctum.
 
