@@ -15,7 +15,7 @@ This is another API created with laravel 8 offering CRUD functionalities but wit
 - registering users
 - logging in users
 
-Access tokens are generated and used to access the protected routes (Un-Authenticated), otherwise blocked by sanctum.
+Access tokens are generated and used to access the protected routes (with Authentication), otherwise blocked by sanctum.
 
 
 
